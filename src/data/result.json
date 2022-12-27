@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "image": "../assets/image/ga.png",
+    "name": "ga"
+  },
+  {
+    "id": 2,
+    "image": "../assets/image/bau.png",
+    "name": "bau"
+  },
+  {
+    "id": 3,
+    "image": "../assets/image/nai.png",
+    "name": "nai"
+  }
+]

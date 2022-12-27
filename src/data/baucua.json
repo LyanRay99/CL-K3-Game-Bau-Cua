@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "image": "../assets/image/ga.png",
+    "name": "ga",
+    "order": 0
+  },
+  {
+    "id": 2,
+    "image": "../assets/image/bau.png",
+    "name": "bau",
+    "order": 0
+  },
+  {
+    "id": 3,
+    "image": "../assets/image/nai.png",
+    "name": "nai",
+    "order": 0
+  },
+  {
+    "id": 4,
+    "image": "../assets/image/tom.png",
+    "name": "tom",
+    "order": 0
+  },
+  {
+    "id": 5,
+    "image": "../assets/image/cua.png",
+    "name": "cua",
+    "order": 0
+  },
+  {
+    "id": 6,
+    "image": "../assets/image/ca.png",
+    "name": "ca",
+    "order": 0
+  }
+]
